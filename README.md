@@ -2,12 +2,14 @@
 
   <h1 align=center> ✨Olá Mundo, meu nome é Tatianne ✨</h1>
   
-      ## Sobre mim
-      
+     
+    
       💻   Iniciante na área na tecnologia e atualmente cursando o Bootcamp de Desenvolvimento Java Full Stack na SoulCode Academy.
-      🔍  Sempre buscando novos conhecimentos.
-      🎮  Apaixonada por tecnologia, jogos, livros, séries, quadrinhos, etc.
       
+      🔍  Sempre buscando novos conhecimentos.
+      
+      🎮  Apaixonada por tecnologia, jogos, livros, séries, quadrinhos, etc.
+   
   <hr>
 
 <div align=center>
