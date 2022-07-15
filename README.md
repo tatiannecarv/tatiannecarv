@@ -42,8 +42,8 @@
 </a>
 </div>
 
-                                                                                                                         
+ <div>                                                                                                                        
 ![Snake gif](https://github.com/tatiannecarv/tatiannecarv/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 
 
