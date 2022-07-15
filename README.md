@@ -13,9 +13,9 @@
 <br>
 
 <div >
-  <img height="130em"  aligh="center" margin= "5px"src="https://github-readme-stats.vercel.app/api?username=tatiannecarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tatiannecarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   
-  <img height="150em"  aligh=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiannecarv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiannecarv&layout=compact&langs_count=7&theme=dracula"/>
   </a>
     </div>
     
