@@ -41,8 +41,9 @@
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
-<div>
-![Snake animation](https://github.com/tatiannecarv/tatiannecarv/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+                                                                                                                         
+![Snake gif](https://github.com/tatiannecarv/tatiannecarv/blob/output/github-contribution-grid-snake.svg)
+
 
 
