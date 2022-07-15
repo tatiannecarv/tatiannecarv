@@ -15,7 +15,7 @@
 <div align=center>
   <img height="180em"  aligh="center" margin= "5px"src="https://github-readme-stats.vercel.app/api?username=tatiannecarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   
-  <img height="180em"  aligh=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiannecarv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em"  aligh=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiannecarv&layout=compact&langs_count=7&theme=dracula"/>
   </a>
     </div>
     
@@ -40,6 +40,9 @@
 <a href="https://www.linkedin.com/in/tatianne-carvalho-93b7aa241/" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</div>
+<div>
+![Snake animation](https://github.com/tatiannecarv/tatiannecarv/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
